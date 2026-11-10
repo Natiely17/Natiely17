@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Natiely17/Natiely17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou a Nately!
 
-Here are some ideas to get you started:
+## 💻 🛠️ Tecnologias que estou estudando
+| 🟢 Linguagem / Ferramenta | 📝 O que estou fazendo |
+| ---- | ---- |
+| 🟨 JavaScript (nome.js) | Scripts para aplicações web |
+| 🌐 HTML + CSS | Montagem e estilização de páginas |
+| 🐍 Python 3 | Curso e projetos pessoais |
+| ⚫ C / 🟠 C++ / 🟣 C# | Estudos em linguagens compiladas |
+| 🔐 Cibersegurança | Fundamentos e práticas de segurança |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou desenvolvendo
+> ✅ Criação de aplicações web
+> ✅ Testes e aprendizado nas linguagens acima
+> ✅ Projetos para treinar lógica de programação
+
+## 🤝 O que busco
+🤍 Trocar ideias com outros devs
+🤍 Dicas para evoluir meus códigos
+🤍 Colaborar em projetos simples
+
+## ⚡ Curiosidade sobre mim
+✨ Sempre curiosa para aprender coisas novas no mundo da programação!
