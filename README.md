@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B16,35:312E81,70:6D28D9,100:0891B2&text=DEVELOPER%20PORTFOLIO&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=SOFTWARE%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descAlignY=65&animation=fadeIn" />
+<img  src="" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Development;Full+Stack+Technologies;Database+%26+Cloud+Computing;Cybersecurity+%26+Innovation" />
 
